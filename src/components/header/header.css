@@ -1,0 +1,25 @@
+.header-nav{
+    background-color: rgb(35, 30, 30);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+.header-nav img{
+width: 50px;
+;
+}
+
+.header-nav a{
+    color: white;
+    font-size: 24px;
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;
+padding: 10px;
+}
+.header-nav a:hover{
+    color: darkorange;
+}
